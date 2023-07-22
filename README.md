@@ -1,0 +1,1 @@
+# hackerrank-SQL-basic-skill-certification-test-solution
